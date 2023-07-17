@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlInvokerConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--c sampleConnectionString.txt --f sample.sql "
+    }
+  }
+}

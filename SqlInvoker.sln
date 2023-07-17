@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInvokerLib", "SqlInvokerLib\SqlInvokerLib.csproj", "{7C3F2CDF-D32C-4403-9A58-8A3780A5D06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInvokerConsole", "SqlInvokerConsole\SqlInvokerConsole.csproj", "{D5F7CB4B-ED47-4A81-A198-69E1FF56BAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3F2CDF-D32C-4403-9A58-8A3780A5D06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3F2CDF-D32C-4403-9A58-8A3780A5D06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3F2CDF-D32C-4403-9A58-8A3780A5D06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3F2CDF-D32C-4403-9A58-8A3780A5D06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F7CB4B-ED47-4A81-A198-69E1FF56BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F7CB4B-ED47-4A81-A198-69E1FF56BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F7CB4B-ED47-4A81-A198-69E1FF56BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F7CB4B-ED47-4A81-A198-69E1FF56BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C615947D-9929-4724-BE1C-DA0FEC50A534}
+	EndGlobalSection
+EndGlobal
